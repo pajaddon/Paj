@@ -1,0 +1,12 @@
+## Interface: 90005
+## Interface-BCC: 20504
+## Interface-Classic: 11307
+## X-Curse-Project-ID: 615514
+## Title: Paj
+## Notes: Useful functions for use in macros
+## Author: Pajlada
+## DefaultState: enabled
+## LoadOnDemand: 0
+## Version: @project-version@
+
+main.lua
