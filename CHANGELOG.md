@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## Release v1.0.1
+
 - Add PajBuyFromVendor function
 - Bump ToC
 
