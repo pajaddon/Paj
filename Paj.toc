@@ -1,7 +1,9 @@
-## Interface: 90005
+## Interface: 90200
 ## Interface-BCC: 20504
-## Interface-Classic: 11307
+## Interface-Classic: 11403
 ## X-Curse-Project-ID: 615514
+## X-WoWI-ID: 26300
+## X-Wago-ID: WYK9wjNL
 ## Title: Paj
 ## Notes: Useful functions for use in macros
 ## Author: Pajlada
